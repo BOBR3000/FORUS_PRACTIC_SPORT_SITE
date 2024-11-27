@@ -11,7 +11,7 @@ export default defineComponent({
 </script>
 
 <template>
-<div class="w-[1920px] h-[1080px] bg-white flex">
+<div class="bg-white flex">
  <MENU_PANEL></MENU_PANEL>
  <router-view></router-view>
 </div>
